@@ -66,7 +66,7 @@
     "rimraf": "^2.5.0",
     "solid-auth-client": "^2.1.1",
     "solid-namespace": "^0.1.0",
-    "solid-permissions": "*",
+    "solid-permissions": "https://github.com/solid/solid-permissions#7d94ffacb127ce2fdf98a8c430a028e5f94cfc58",
     "solid-ws": "^0.2.3",
     "ulid": "^0.1.0",
     "uuid": "^3.0.0",
